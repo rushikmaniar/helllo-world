@@ -1,2 +1,3 @@
 # helllo-world
-this is my first repository
+HiI m rushik .
+This is My first reporsitory.
